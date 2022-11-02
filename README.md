@@ -11,7 +11,7 @@
 
 <h3> 📫 Contact Me:</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uriya-shemla-011a7021b/)](https://www.linkedin.com/in/uriya-shemla-011a7021b/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uriyashemla/)](https://www.linkedin.com/in/uriyashemla/)
 [![Gmail Badge](https://img.shields.io/badge/-uriyashem1994@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:uriyashem1994@gmail.com)](mailto:uriyashem1994@gmail.com)
 <a href="https://www.facebook.com/uriyashemla/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" height="20"/></a>
 <a href="https://www.hackerrank.com/uriyashem1994"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank" height="20"/></a>
